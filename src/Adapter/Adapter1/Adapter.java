@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.Adapter1;
 
 /**
  * Created by Евгений on 17.10.2016.
